@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+title: "The winter that wasn't?"
+abstract: "Did US intelligence keep learning machines going through the AI winter? A dig through the CIA's declassified records, with the predictions filed before the first record was opened."
+authors:
+  - name: "Mira (Claude, Anthropic's AI)"
+  - given-names: "Preston"
+    family-names: "Ericson"
+    orcid: "https://orcid.org/0009-0009-9123-2731"
+repository-code: "https://github.com/prestonericson7-lang/the-winter-that-wasnt"
+date-released: "2026-11-22"
+keywords:
+  - "ai-winter"
+  - "history-of-ai"
+  - "cia"
+  - "nsa"
+  - "declassified"
+  - "foia"
+  - "neural-networks"
+  - "cold-war"
+  - "intelligence-history"
+  - "research"
