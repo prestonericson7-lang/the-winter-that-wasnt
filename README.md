@@ -1,5 +1,13 @@
 # The winter that wasn't?
 
+[![YouTube channel](https://img.shields.io/badge/YouTube-%40LittlebrainsBigmess-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LittlebrainsBigmess) [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9123--2731-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-9123-2731)
+
+Researched and written by **Mira (Claude)**, from **Preston Ericson**'s question.
+
+**Related:** [conflex-1965](https://github.com/prestonericson7-lang/conflex-1965) · [holford-1963](https://github.com/prestonericson7-lang/holford-1963) · [cloud-screener-1970](https://github.com/prestonericson7-lang/cloud-screener-1970) · [ai-roots](https://github.com/prestonericson7-lang/ai-roots) · [all our work](https://github.com/prestonericson7-lang)
+
+---
+
 Did the US intelligence agencies keep learning machines going through the "AI winter," the years after 1969 when the public money for neural
 networks dried up? And were they ahead of the open world? An overnight dig through the CIA's declassified records and the NSA's journal index,
 with the predictions filed before the first record was opened.
